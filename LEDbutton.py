@@ -1,5 +1,5 @@
 # Tutorial from youtube link below:
-# https://www.youtube.com/watch?v=ntKI2Nj-hSU&list=PLNnwglGGYoTvy37TSGFlv-aFkpg7owWrE&index=22
+https://www.youtube.com/watch?v=DPXRemnogC0&list=PLNnwglGGYoTvy37TSGFlv-aFkpg7owWrE&index=23
 
 import RPi.GPIO as GPIO
 from time import sleep
